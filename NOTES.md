@@ -1,1 +1,2 @@
 - Note 6: item 4048
+- Note 12: item 7642
