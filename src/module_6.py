@@ -6,3 +6,7 @@ def helper_8(x):
 
 def helper_27(x):
     return x * 61
+
+
+def helper_30(x):
+    return x * 60
