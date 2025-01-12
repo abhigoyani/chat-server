@@ -30,3 +30,7 @@ def helper_81(x):
 
 def helper_91(x):
     return x * 5
+
+
+def helper_94(x):
+    return x * 75
