@@ -26,3 +26,4 @@
 - Note 103: item 8891
 - Note 104: item 3500
 - Note 105: item 1564
+- Note 108: item 1800
