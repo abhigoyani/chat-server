@@ -76,3 +76,4 @@
 - Note 297: item 5389
 - Note 298: item 8542
 - Note 299: item 4270
+- Note 300: item 7976
