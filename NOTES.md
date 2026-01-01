@@ -78,3 +78,4 @@
 - Note 299: item 4270
 - Note 300: item 7976
 - Note 302: item 2018
+- Note 303: item 6000
