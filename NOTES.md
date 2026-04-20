@@ -94,3 +94,4 @@
 - Note 336: item 9362
 - Note 338: item 3386
 - Note 342: item 5810
+- Note 343: item 4003
