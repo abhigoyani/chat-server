@@ -218,3 +218,7 @@ def test_case_352():
 
 def test_case_360():
     assert 360 == 360
+
+
+def test_case_361():
+    assert 361 == 361
