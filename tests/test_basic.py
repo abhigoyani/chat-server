@@ -254,3 +254,7 @@ def test_case_404():
 
 def test_case_409():
     assert 409 == 409
+
+
+def test_case_423():
+    assert 423 == 423
